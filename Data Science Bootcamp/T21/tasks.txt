@@ -1,0 +1,4 @@
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
+Kisna;Good Man;Be a Good Man;2022-12-29;2023-01-04;No
+Kisna;Story;StoryTelling;2022-12-29;2023-01-05;No
+admin;add functionality to view mine;add options to view mine to pick between tasks to mark it as complete;2023-01-05;2023-01-05;No

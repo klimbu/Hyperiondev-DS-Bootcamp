@@ -1,0 +1,72 @@
+○ An algorithm that asks a user to enter a positive number repeatedly
+until the user enters a zero value, then determines and outputs the
+largest of the numbers that were input.
+
+	request positive numbers from the user
+	
+	store the inputs in a int variable called "biggest number"
+	
+	if the input is greater than the stored input replace the 
+	stored input 
+	
+	if the input is 0 
+		print out "biggest number"
+
+○ An algorithm that requests a user to input their name and then
+stores their name in a variable called first_name. Subsequently, the
+algorithm should print out first_name along with the phrase “Hello,
+World”.
+
+	request the users name
+
+	store it in a variable called "first_name"
+
+	print out "first_name" and the phrase "Hello, World"
+
+○ An algorithm that reads an arbitrary number of integers and then
+returns their arithmetic average.
+
+	generate/read an arbitrary number of integers
+
+	store it in a variable called "arbitrary_numbers"
+
+	create a variable called "sum", "num" and "average"
+
+	in "sum" calculate the total of all the integers and store it 
+
+	in "num" calculate the number of integers there were and store it
+
+	in "average" calculate "sum"/"num" and store it
+
+	print out "average"
+
+○ An algorithm that reads a grocery list and prints out the products
+(in alphabetical order) that are still left to buy.
+
+	create/read a grocery list  
+
+	store it in a variable called "grocery_list"
+
+	if any of the grocery is bought 
+
+		remove it from "grocery_list"
+
+	sort "grocery_list" in alphabetical order
+
+	print out "grocery_list"
+
+○ An algorithm for the flowchart below:
+	
+	read/create two random numbers 
+	
+	store one in a variable called "X" and the other in "Y"
+
+	create variables "S", "A", "P"
+
+	in "S" add "X" and "Y"
+
+	in "A" divide "S" by half
+
+ 	in "P" multiply "X" by "Y"
+
+	print out "S" + "A" + "P"

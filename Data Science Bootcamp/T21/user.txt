@@ -1,0 +1,6 @@
+admin;password
+Kisna;Limbu
+Ken;Yasu
+Kenji;Masuda
+Lado;asdasd
+jingle;man
