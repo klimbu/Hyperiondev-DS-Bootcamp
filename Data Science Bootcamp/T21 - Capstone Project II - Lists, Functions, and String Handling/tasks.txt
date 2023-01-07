@@ -1,4 +1,12 @@
-admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
-Kisna;Good Man;Be a Good Man;2022-12-29;2023-01-04;No
+admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;Yes
+Kisna;Good Man;Be a Good Man;2022-12-29;2023-01-04;Yes
 Kisna;Story;StoryTelling;2022-12-29;2023-01-05;No
-admin;add functionality to view mine;add options to view mine to pick between tasks to mark it as complete;2023-01-05;2023-01-05;No
+admin;add functionality to view mine;add options to view mine to pick between tasks to mark it as complete;2023-01-05;2023-01-05;Yes
+admin;def gr;generate report;2023-01-07;2023-02-01;Yes
+Kisna;check va and vm;check everything is working and that it updates;2023-01-09;2023-01-08;Yes
+admin;check its working;check the program is working;2023-01-08;2023-01-07;Yes
+jingle;Last Check;Test if Everything works;2023-01-09;2023-01-07;No
+Ken;Use vm;Use vm and check if gr/ds updates immediately;2023-01-08;2023-01-07;No
+Kenji;Final check on gr and ds;Check if implementation of reboot_report is working;2023-01-08;2023-01-07;No
+Lado;Debug function task_data();Final implementation to try to sort gr and ds responsiveness;2023-01-08;2023-01-07;No
+Dan;Long af;Need to sleep;2023-01-07;2023-01-07;Yes

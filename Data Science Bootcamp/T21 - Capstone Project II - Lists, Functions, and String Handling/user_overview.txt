@@ -1,35 +1,70 @@
-------------------------------------
+
 User Overview Report
-Date : 2023-01-05
---------------------------------------------------
-Total number of user :                       4
-Total number of tasks :                      4
---------------------------------------------------
-Username : admin
-Total number of tasks assigned to the user :                                                   2
-Percentage of the total number of tasks that have been assigned to the user :                  50.0%
-Percentage of the tasks assigned to the user that have completed :                             0.0%
-Percentage of the tasks assigned to the user that must still be completed :                    100.0%
-Percentage of the tasks assigned to the user that have not yet been completed and are overdue: 100.0%
+Date: 2023-01-07
 -----------------------------------------------------------------------------------------------------
-Username : Kisna
-Total number of tasks assigned to the user :                                                   2
-Percentage of the total number of tasks that have been assigned to the user :                  50.0%
-Percentage of the tasks assigned to the user that have completed :                             0.0%
-Percentage of the tasks assigned to the user that must still be completed :                    100.0%
-Percentage of the tasks assigned to the user that have not yet been completed and are overdue: 100.0%
+Total Number of users: 		 9
+Total Number of tasks: 		 12
 -----------------------------------------------------------------------------------------------------
-Username : Ken
-Total number of tasks assigned to the user :                                                   0
-Percentage of the total number of tasks that have been assigned to the user :                  0%
-Percentage of the tasks assigned to the user that have completed :                             0%
-Percentage of the tasks assigned to the user that must still be completed :                    0%
-Percentage of the tasks assigned to the user that have not yet been completed and are overdue: 0%
+User: admin
+Total numbers of tasks assigned:        4
+% share of the total tasks assigned:    33.33%
+% of tasks completed:                   100.0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
 -----------------------------------------------------------------------------------------------------
-Username : Kenji
-Total number of tasks assigned to the user :                                                   0
-Percentage of the total number of tasks that have been assigned to the user :                  0%
-Percentage of the tasks assigned to the user that have completed :                             0%
-Percentage of the tasks assigned to the user that must still be completed :                    0%
-Percentage of the tasks assigned to the user that have not yet been completed and are overdue: 0%
+User: Kisna
+Total numbers of tasks assigned:        3
+% share of the total tasks assigned:    25.0%
+% of tasks completed:                   66.67%
+% of tasks not complete:                33.33%
+% of tasks not complete and overdue:    33.33%
+-----------------------------------------------------------------------------------------------------
+User: Ken
+Total numbers of tasks assigned:        2
+% share of the total tasks assigned:    16.67%
+% of tasks completed:                   0%
+% of tasks not complete:                100.0%
+% of tasks not complete and overdue:    0%
+-----------------------------------------------------------------------------------------------------
+User: Kenji
+Total numbers of tasks assigned:        1
+% share of the total tasks assigned:    8.33%
+% of tasks completed:                   0%
+% of tasks not complete:                100.0%
+% of tasks not complete and overdue:    0%
+-----------------------------------------------------------------------------------------------------
+User: Lado
+Total numbers of tasks assigned:        1
+% share of the total tasks assigned:    8.33%
+% of tasks completed:                   0%
+% of tasks not complete:                100.0%
+% of tasks not complete and overdue:    0%
+-----------------------------------------------------------------------------------------------------
+User: jingle
+Total numbers of tasks assigned:        1
+% share of the total tasks assigned:    8.33%
+% of tasks completed:                   0%
+% of tasks not complete:                100.0%
+% of tasks not complete and overdue:    0%
+-----------------------------------------------------------------------------------------------------
+User: Dan
+Total numbers of tasks assigned:        1
+% share of the total tasks assigned:    8.33%
+% of tasks completed:                   100.0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
+-----------------------------------------------------------------------------------------------------
+User: Cam
+Total numbers of tasks assigned:        0
+% share of the total tasks assigned:    0%
+% of tasks completed:                   0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
+-----------------------------------------------------------------------------------------------------
+User: Sammuel
+Total numbers of tasks assigned:        0
+% share of the total tasks assigned:    0%
+% of tasks completed:                   0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
 -----------------------------------------------------------------------------------------------------

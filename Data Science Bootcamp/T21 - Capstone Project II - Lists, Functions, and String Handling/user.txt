@@ -4,3 +4,6 @@ Ken;Yasu
 Kenji;Masuda
 Lado;asdasd
 jingle;man
+Dan;Dantheman
+Cam;TheMan
+Sammuel;Hope it works

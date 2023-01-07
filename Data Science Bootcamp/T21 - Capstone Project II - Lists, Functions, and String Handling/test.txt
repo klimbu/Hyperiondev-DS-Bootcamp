@@ -1,4 +1,49 @@
-admin;Add functionality to task manager;Add additional options and refactor the code.;2022-12-01;2022-11-22;No
-Kisna;Good Man;Be a Good Man;2022-12-29;2023-01-04;No
-Kisna;Story;StoryTelling;2022-12-29;2023-01-05;No
-admin;add functionality to view mine;add options to view mine to pick between tasks to mark it as complete;2023-01-05;2023-01-05;No
+
+User Overview Report
+Date: 2023-01-07
+-------------------------------------------------------
+Total Number of users: 		 6
+Total Number of tasks: 		 7
+----------------------------------------------------------------
+User: admin
+Total numbers of tasks assigned:        4
+% share of the total tasks assigned:    57.14%
+% of tasks completed:                   75.0%
+% of tasks not complete:                25.0%
+% of tasks not complete and overdue:    25.0%
+----------------------------------------------------------------
+User: Kisna
+Total numbers of tasks assigned:        3
+% share of the total tasks assigned:    42.86%
+% of tasks completed:                   0%
+% of tasks not complete:                100.0%
+% of tasks not complete and overdue:    66.67%
+----------------------------------------------------------------
+User: Ken
+Total numbers of tasks assigned:        0
+% share of the total tasks assigned:    0%
+% of tasks completed:                   0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
+----------------------------------------------------------------
+User: Kenji
+Total numbers of tasks assigned:        0
+% share of the total tasks assigned:    0%
+% of tasks completed:                   0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
+----------------------------------------------------------------
+User: Lado
+Total numbers of tasks assigned:        0
+% share of the total tasks assigned:    0%
+% of tasks completed:                   0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
+----------------------------------------------------------------
+User: jingle
+Total numbers of tasks assigned:        0
+% share of the total tasks assigned:    0%
+% of tasks completed:                   0%
+% of tasks not complete:                0%
+% of tasks not complete and overdue:    0%
+----------------------------------------------------------------
